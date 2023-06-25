@@ -5,7 +5,7 @@ Code and datasets of thesis "Classification of Cyber-Security Requirements based
 
 - `Models Training and Testing.ipynb` - notebook with models
 - `language_detection.py` - script that detect language of text using CLD2
-- `github_scraper.py` - script that harvest issues and repositories from GiyHub
+- `github_scraper.py` - script that harvest issues and repositories from GitHub
 - `data`:
 - - `security_terms.csv` - list of security terms
 - - `repositories.csv` - table with GitHub repositories and links that we used for harvesting
